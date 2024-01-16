@@ -1,0 +1,7 @@
+{
+  "name": "angular-sandbox",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
